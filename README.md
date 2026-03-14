@@ -1,4 +1,10 @@
-https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white
+# Ubuntu Home Lab Foundation
+
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Container_Manager-Portainer-13BEF9)
+![Linux](https://img.shields.io/badge/Platform-Linux-black?logo=linux)
+![Homelab](https://img.shields.io/badge/Environment-Homelab-blue)
 
 # home-lab-ubuntu-docker-portainer
 
