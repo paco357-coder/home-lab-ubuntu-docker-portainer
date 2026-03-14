@@ -41,3 +41,22 @@ Installed Docker on the Ubuntu Server and verified functionality using the hello
 
 ### Portainer Deployment
 Deployed Portainer as a Docker container to provide a web-based container management interface.
+
+
+Home Lab Network
+
+        ┌─────────────────────────┐
+        │        PC1              │
+        │  Ubuntu Desktop         │
+        │  XRDP Remote Access     │
+        │  Management Workstation │
+        └───────────┬─────────────┘
+                    │ SSH
+                    │
+        ┌───────────▼─────────────┐
+        │        PC2              │
+        │     Ubuntu Server       │
+        │     Docker Engine       │
+        │     Portainer           │
+        │     Container Host      │
+        └─────────────────────────┘
