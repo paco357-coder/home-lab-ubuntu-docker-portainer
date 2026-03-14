@@ -1,3 +1,5 @@
+https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white
+
 # home-lab-ubuntu-docker-portainer
 
 # Ubuntu Home Lab Foundation
