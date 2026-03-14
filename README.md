@@ -23,3 +23,21 @@ PC2 - Ubuntu Server
 - SSH access enabled
 - Docker installed
 - Portainer deployed
+
+
+## What Was Completed
+
+### Ubuntu Desktop Management Node
+Configured Ubuntu Desktop with XRDP to allow remote access and system management.
+
+### Ubuntu Server Deployment
+Installed Ubuntu Server on a second machine and connected it to the home network.
+
+### SSH Connectivity
+Established SSH access from the Ubuntu Desktop machine to the Ubuntu Server machine.
+
+### Docker Installation
+Installed Docker on the Ubuntu Server and verified functionality using the hello-world container.
+
+### Portainer Deployment
+Deployed Portainer as a Docker container to provide a web-based container management interface.
